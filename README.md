@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**marselester/marselester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer interested in databases and distributed systems biased towards Go and Python.
+Sometimes I [blog](https://marselester.com) and make slides:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Log-structured engine](https://go-talks.appspot.com/github.com/marselester/storage-engines/log-structured-engine.slide)
+  featuring [HastyDB](https://github.com/marselester/hastydb) and
+  [RascalDB](https://github.com/marselester/rascaldb)
+- [Writing reliable Go applications with Apache Kafka](https://go-talks.appspot.com/github.com/marselester/kafka-for-gophers/kafka.slide); see also distributed [payment](https://github.com/marselester/distributed-payment) and
+  [signup](https://github.com/marselester/distributed-signup)
+- [Web service scalability](https://go-talks.appspot.com/github.com/marselester/scalability/scalability.slide)
+  (universal scalability law);
+  see also [capacity management](https://github.com/marselester/capacity)
+  and [load testing](https://github.com/marselester/load-testing)
+- [SaltStack](https://slides.com/marselester/saltstack) configuration management tool
