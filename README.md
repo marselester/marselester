@@ -3,6 +3,7 @@
 I am a software developer interested in databases and distributed systems biased towards Go and Python.
 Sometimes I [blog](https://marselester.com) and make slides:
 
+- [PostgreSQL lingo](https://go-talks.appspot.com/github.com/marselester/storage-engines/postgres-lingo.slide)
 - [Log-structured engine](https://go-talks.appspot.com/github.com/marselester/storage-engines/log-structured-engine.slide)
   featuring [HastyDB](https://github.com/marselester/hastydb) and
   [RascalDB](https://github.com/marselester/rascaldb)
