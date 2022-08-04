@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer interested in databases and distributed systems biased towards Go and Python.
+I am a software developer biased towards Go.
 Sometimes I [blog](https://marselester.com) and make slides:
 
 - [PostgreSQL lingo](https://go-talks.appspot.com/github.com/marselester/storage-engines/postgres-lingo.slide)
