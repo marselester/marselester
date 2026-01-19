@@ -3,6 +3,7 @@
 I am a software developer biased towards Go.
 Sometimes I [blog](https://marselester.com) and make slides:
 
+- [Intro to SIMD in Go](https://go-talks.appspot.com/github.com/marselester/perf/go-simd.slide)
 - [Go performance tips](https://go-talks.appspot.com/github.com/marselester/perf/go-tips.slide)
 - [PostgreSQL lingo](https://go-talks.appspot.com/github.com/marselester/storage-engines/postgres-lingo.slide)
 - [Log-structured engine](https://go-talks.appspot.com/github.com/marselester/storage-engines/log-structured-engine2.slide)
